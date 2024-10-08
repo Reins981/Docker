@@ -1,0 +1,17 @@
+
+# Check indents/valid
+---
+service:
+  - app: database
+    port: 8080
+    version: [1.0, 1.1, 2.2]
+
+  - app: webserver
+    port: 8080
+    version:
+      - 1.0
+      - 1.1
+      - 2.0
+
+
+

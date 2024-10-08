@@ -1,0 +1,14 @@
+
+# 1. Erstelle eine Person mit Vorname "Anna", Nachname "Mustermann", Alter 35, verheiratet und mit 2 Hunden.
+
+
+
+# 2. Füge den Hunden jeweils den Namen Bello und Rocky als Liste hinzu.
+
+
+
+# 3. Füge die Hunde als Key-Value Paar anstatt einer Liste hinzu.
+#    Die Eigenschaften von Bello sind sein Name sowie die Farbe Braun und von Rocky der Name sowie die Farbe Schwarz
+
+
+# 4. Füge noch einen Partner mit dem Vornamen Max mit den Hobbies Lesen, Reisen und Sport hinzu.
